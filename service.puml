@@ -1,0 +1,7 @@
+' CustomerService
+@startuml
+
+node CustomerService {
+}
+
+@enduml
