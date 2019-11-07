@@ -3,9 +3,9 @@
 Source of truth for Customer data. Provides API to access and manipulate 
 customers data.
 
-Owner|Tier|Status|Landscape|Contexts
----|---|---|---|---
-CommunicationsTeam|Tier1|Prod|Web|Customers
+Owner|Tier|Status|Contexts
+---|---|---|---
+CommunicationsTeam|Tier1|Prod|Web,Customers
 
 ##### Environments
 
